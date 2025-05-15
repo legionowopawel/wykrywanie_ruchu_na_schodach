@@ -21,26 +21,17 @@ Analizator ruchu 2025 to zaawansowana aplikacja napisana w Pythonie, której cel
 
 Poniżej znajduje się zrzut ekranu interfejsu aplikacji:
   
-![Interfejs użytkownika](interfejs.png)
+![Interfejs użytkownika](images/interfejs.png)
 
 Bezpośrednio pod interfejsem znajduje się obrazek pokazujący, jak wygląda **wyłączony obszar** (domyślnie ustawiony – np. góra ekranu, gdzie mogą pojawić się linie informujące o wyłączeniu części obrazu):
 
-![Wyłączony obszar](wylaczony_obszar.png)
+![Wyłączony obszar](images/wylaczony_obszar.png)
 
 ### Przykładowe wyniki analizy
 
 Przykład wykresu migotania (akcji wykrytej w wideo):
 
-![Wynik migotania](migotanie.png)
-
-### Film demonstracyjny
-
-Aby zobaczyć, jak działa program, możesz obejrzeć poniższe nagranie:
-  
-[Zobacz film działania programu](images/nagranie_dzialania_programu.mp4)  
-*(alternatywnie – kliknij link, aby pobrać film demonstracyjny)*
-![Demo GIF](sample.gif)
-
+![Wynik migotania](images/migotanie.png)
 
 ## Instalacja i Uruchomienie
 
