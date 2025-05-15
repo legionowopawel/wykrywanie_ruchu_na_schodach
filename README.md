@@ -29,7 +29,7 @@ Bezpośrednio pod interfejsem znajduje się obrazek pokazujący, jak wygląda **
 
 ### Przykładowe wyniki analizy
 
-Przykład wykresu migotania (akcji wykrytej w wideo):
+Przykład wykresu migotania (akcji wykrytej w wideo). W tym przypadku po schodach przechodziło 9 osób w odstępach czasu:
 
 ![Wynik migotania](images/migotanie.png)
 
