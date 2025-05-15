@@ -1,0 +1,35 @@
+Fragment 1:
+  Początek: 0:00:01 (klatka 32)
+  Koniec: 0:00:18 (klatka 564)
+  Szczyt: 0:00:11 (klatka 352, wynik: 89.3013)
+
+Fragment 2:
+  Początek: 0:00:22 (klatka 673)
+  Koniec: 0:00:44 (klatka 1322)
+  Szczyt: 0:00:29 (klatka 885, wynik: 106.0945)
+
+Fragment 3:
+  Początek: 0:00:54 (klatka 1634)
+  Koniec: 0:01:04 (klatka 1937)
+  Szczyt: 0:00:57 (klatka 1724, wynik: 110.9690)
+
+Fragment 4:
+  Początek: 0:01:12 (klatka 2189)
+  Koniec: 0:01:23 (klatka 2492)
+  Szczyt: 0:01:20 (klatka 2401, wynik: 103.9162)
+
+Fragment 5:
+  Początek: 0:01:30 (klatka 2707)
+  Koniec: 0:01:40 (klatka 3010)
+  Szczyt: 0:01:36 (klatka 2891, wynik: 192.4933)
+
+Fragment 6:
+  Początek: 0:01:45 (klatka 3178)
+  Koniec: 0:01:56 (klatka 3481)
+  Szczyt: 0:01:53 (klatka 3390, wynik: 92.1946)
+
+Fragment 7:
+  Początek: 0:02:07 (klatka 3830)
+  Koniec: 0:02:13 (klatka 4011)
+  Szczyt: 0:02:10 (klatka 3920, wynik: 82.0288)
+

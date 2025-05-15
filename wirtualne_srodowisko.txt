@@ -1,0 +1,17 @@
+w terminalu wpisz aby dowiedzieć się jakie masz wersje Python:
+
+wejdź do katalogu z projektem lub wciśnij start.bat w projekcie.
+
+py --list
+
+py -3.10 -m venv venv
+venv\Scripts\activate
+python --version
+
+
+od tej pory można używać pliku 
+start.bat
+by uruchamiać środowisko w terminalu jednym kliknięciem
+
+python.exe -m pip install --upgrade pip
+pip install -r requirements.txt
