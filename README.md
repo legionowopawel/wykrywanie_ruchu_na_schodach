@@ -4,6 +4,22 @@
 
 Analizator ruchu 2025 to zaawansowana aplikacja napisana w Pythonie, której celem jest analiza ruchu w nagraniach wideo. Program wykrywa ruch, generuje raporty (CSV, pliki tekstowe), tworzy wykresy oraz zestawia fragmenty wideo, w których wykryto aktywność. Projekt został zbudowany w sposób modułowy, co ułatwia rozwój i utrzymanie kodu.
 
+## Obsługiwane formaty plików
+
+Analizator ruchu oraz konwerter MP4 do GIF obsługują następujące formaty:
+
+### **Pliki wejściowe**
+- **MP4** – główny format obsługiwany przez program, przeznaczony do konwersji na GIF.
+- **AVI** – format obsługiwany w analizie ruchu, wymaga kompatybilnych kodeków.
+- **MOV** – format Apple QuickTime, również kompatybilny w konwersji i analizie.
+- **DAV** – format stosowany w nagraniach z kamer monitoringu; wymaga konwersji do MP4 (obsługiwane przez program).
+- **MKV** – format kontenerowy, który może być analizowany, ale wymaga obsługi odpowiednich kodeków.
+
+### **Pliki wyjściowe**
+- **GIF** – format wynikowy dla konwersji MP4 na GIF, gotowy do osadzenia w dokumentach, stronach internetowych i README.
+- **MP4** – wynikowe pliki złączonych fragmentów wideo, zapisane bez rekompresji dla zachowania jakości.
+- **PNG** – obrazy wynikowe generowane w analizie ruchu, np. wykresy i wizualizacje detekcji ruchu.
+
 ## Struktura projektu
 
 - **main.py** – główny punkt wejścia, który uruchamia testy diagnostyczne oraz interfejs użytkownika.
