@@ -54,6 +54,9 @@ Przykład wykresu migotania (akcji wykrytej w wideo). W tym przypadku po schodac
 ### Instalacja z GitHub
 
 1. **Pobierz projekt, załóż środowisko i zainstaluj zależności**
+   ściągnij Python 3.10 np. ze strony:
+   
+   https://www.python.org/downloads/release/python-31011/
 
 Sklonuj repozytorium i wykonaj poniższe kroki w terminalu (np. CMD, PowerShell):
 
